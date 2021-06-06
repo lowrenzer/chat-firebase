@@ -2,6 +2,8 @@
 
 UAS Pemrograman Mobile
 
+<br>
+
 18050974009     Reza Pahlevi
 
 18050974017     Alief Fathur Rachman
@@ -10,6 +12,8 @@ UAS Pemrograman Mobile
 
 18050974025     Erlangga Syahputra
 
+
+<br>
 
 <br>
 
