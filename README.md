@@ -11,7 +11,7 @@ UAS Pemrograman Mobile
 18050974025     Erlangga Syahputra
 
 
-
+<br>
 
 App mobile ini menggunakan react dengan database dari google yaitu firebase cloud
 
