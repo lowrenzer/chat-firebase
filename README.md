@@ -1,9 +1,13 @@
 # React chat
 
 UAS Pemrograman Mobile
+
 18050974009     Reza Pahlevi
+
 18050974017     Alief Fathur Rachman
+
 18050974019     Prambayu Rehyta M
+
 18050974025     Erlangga Syahputra
 
 App mobile ini menggunakan react dengan database dari google yaitu firebase cloud
